@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277373485083",
+    "project_id": "echoflutternews",
+    "storage_bucket": "echoflutternews.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277373485083:android:bc6b06503fc340679b78be",
+        "android_client_info": {
+          "package_name": "com.example.echo_flutter_news"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5r7RfPQ2UMRx73ldOEyZEkKSxySu0hh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
